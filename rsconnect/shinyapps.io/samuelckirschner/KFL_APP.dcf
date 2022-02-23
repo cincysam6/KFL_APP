@@ -1,0 +1,13 @@
+name: KFL_APP
+title: KFL_APP
+username:
+account: samuelckirschner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5714207
+bundleId: 5607817
+url: https://samuelckirschner.shinyapps.io/KFL_APP/
+when: 1645581733.93573
+lastSyncTime: 1645581733.93573
+asMultiple: FALSE
+asStatic: FALSE
